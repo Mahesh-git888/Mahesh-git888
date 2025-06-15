@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-- 🔭 Currently focused on sharpening problem-solving and building scalable applications  
-- 🌱 Expanding my skills in full-stack development, system design, and CS fundamentals  
-- 👯 Open to collaborating on impactful software projects and meaningful tech initiatives  
-- 🤝 Looking to connect with like-minded developers and learn through real-world challenges  
-- 💬 Happy to discuss anything related to software engineering, learning paths, or tech transitions  
-- 📫 How to reach me: [LinkedIn][(https://www.linkedin.com/in/mahesh-datta-badvel-6b3184251/) | maheshdattabadvel@gmail.com  ] 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I enjoy blending hardware and software to bring ideas to life
+- 🔭 Focused on building scalable applications and improving problem-solving skills  
+- 🌱 Learning full-stack development, system design, and core CS concepts  
+- 👯 Open to impactful software projects and real-world collaboration  
+- 🤝 Keen to connect with developers and grow through shared challenges  
+- 💬 Love discussing software engineering, learning paths, and tech transitions  
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/mahesh-datta-badvel-6b3184251/) | maheshdattabadvel@gmail.com  
+- ⚡ Fun fact: I enjoy merging hardware and software to create real-world solutions
